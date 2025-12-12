@@ -146,7 +146,7 @@ Sample insights from the dashboard include:
 
 ## 👨‍💻 **Author**
 
-**Brian Ouko**
-Data Scientist | Analyst | Environmental Scientist
+**Brian Ouko**  
+Data Scientist | Analyst | Environmental Scientist  
 Passionate about data-driven marketing, analytics, and digital strategy.
 
